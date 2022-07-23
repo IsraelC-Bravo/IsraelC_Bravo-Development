@@ -6,18 +6,16 @@ My Portfolio 2022.
 
 ![alt tag](https://i.ibb.co/mDZxCbm/Screen-Shot-2022-07-23-at-3-24-51-PM.png)
 
-## What it contains:
+## Here you can find:
+-Info about me
+-My recent projects
 
-**Tech used:** JavaScript
+**Tech used:** JavaScript, HTML, CSS
 
-Fundamental Katas *Solutions*. Code Wars is a great tool for learning & solving problems in different ways.
+A responsive, elegant and simple portfolio to showcase projects!
 
 ## Optimizations
 
-Gotta upload some Python and come back to those challenges that were a bit harder...
+Will update some other projects and add them to my portfolio later in Aug.
 
-## Lessons Learned:
-
-I always see incredible solutions I could have never come up with, and I always add them to my Anki deck.
-**DO NOT COPY/PASTE THE SOLUTIONS! Codewars is not meant for that.... DO SOME GOOGLE-FU & and find the answers yourself =)
 
