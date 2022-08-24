@@ -7,7 +7,7 @@ My Portfolio 2022.
 ![alt tag](https://i.ibb.co/mDZxCbm/Screen-Shot-2022-07-23-at-3-24-51-PM.png)
 
 ## Here you can find:
-**Info about me
+**Info about me!
 **My recent projects
 
 **Tech used:** JavaScript, HTML, CSS
