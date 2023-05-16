@@ -4,7 +4,7 @@ My Portfolio 2022.
 
 **Link to my Site:** https://israelc-bravo.netlify.app
 
-![alt tag](https://share.getcloudapp.com/12u7w0gA)
+![alt tag](https://i.imgur.com/N1IVZjz.gif)
 
 ## Here you can find:
 **Info about me!
